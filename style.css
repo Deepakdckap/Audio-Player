@@ -85,7 +85,7 @@ span#current {
 
 span#full {
     position: relative;
-    left: 190px;
+    left: 170px;
     bottom: 85px;
 }
 
@@ -96,7 +96,7 @@ span#full {
 
 button {
     position: relative;
-    left: 170px;
+    left: 160px;
     color: white;
     background-color: #4e275d;
     border-radius: 10px;
